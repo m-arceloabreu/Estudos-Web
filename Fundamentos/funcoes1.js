@@ -12,5 +12,5 @@
         return a + b
     }
     console.log(soma(2,3))
-    console.log(soma(2))    //  Ver o Comentario de cima
+   // console.log(soma(2))    //  Ver o Comentario de cima
     
